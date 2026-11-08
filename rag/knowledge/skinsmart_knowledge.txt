@@ -1,0 +1,24 @@
+SkinSmart AI is a personalized skincare recommendation system.
+
+The SkinSmart dataset contains skincare product information that can be used to compare products and match them to user preferences.
+
+For each product, the system can store information such as:
+- product ID
+- brand
+- product name
+- category
+- ingredients
+- simplified ingredients
+- whether the product contains fragrance
+- whether it contains drying alcohol
+- whether it contains parabens
+- whether it contains sulfates
+- whether it contains silicones
+
+SkinSmart uses product characteristics and ingredient-related information to recommend products that better match a user's skincare preferences and needs.
+
+The recommendation system can exclude products that conflict with a user's hard ingredient preferences.
+
+SkinSmart can also explain why a product was recommended by referring to the product's characteristics and ingredient-related information.
+
+SkinSmart is designed as a skincare recommendation system. It is not intended to provide medical diagnoses or clinical treatment advice.

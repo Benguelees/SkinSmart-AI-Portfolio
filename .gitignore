@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+.cache/
+rag/vector_store/
+rag/embedding_cache/
