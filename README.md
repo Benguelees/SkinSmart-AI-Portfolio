@@ -47,8 +47,7 @@ SkinSmart AI helps users discover skincare products based on their individual ne
 - `app.py` — Streamlit application
 - `recommender.py` — Recommendation engine
 - `rag/` — AI assistant components
-- `notebooks/` — Data analysis and preparation
-- `data/` — Skincare product datasets
+- `data/` — Synthetic demonstration product data
 - `requirements.txt` — Python dependencies
 
 ## Project Highlights
@@ -100,8 +99,8 @@ LinkedIn: https://www.linkedin.com/in/benguelees
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Benguelees/SkinSmart-AI.git
-cd SkinSmart-AI
+git clone https://github.com/Benguelees/SkinSmart-AI-Portfolio.git
+cd SkinSmart-AI-Portfolio
 ```
 
 ### 2. Create a virtual environment
