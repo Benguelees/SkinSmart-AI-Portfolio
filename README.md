@@ -1,5 +1,10 @@
 # SkinSmart AI
 
+## 🚀 Live Demo
+
+**[Try SkinSmart AI Live](https://skinsmart-ai-portfolio-benguelees.streamlit.app/)**
+ 
+
 ## Personalised Skincare Recommendation System & AI Assistant
 
 SkinSmart AI is my Data Science and Applied AI capstone project, developed during my training at WBS Coding School.
